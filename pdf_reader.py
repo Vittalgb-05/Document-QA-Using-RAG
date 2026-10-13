@@ -1,7 +1,6 @@
 import re
 import pypdf
 
-
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 class PdfReader:
